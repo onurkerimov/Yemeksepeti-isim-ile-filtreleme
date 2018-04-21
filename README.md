@@ -1,4 +1,10 @@
+# Yemekspeti İsim ile Filtreleme (Tampermonkey eklentisi)
+
 Sadece seçtiğiniz anahtar kelimelere sahip restoranların görüntülenmesi sağlar. Bazı kelimeleri ise kara listeye alabilirsiniz.
+
+## Yükleme adresi
+
+[https://greasyfork.org/](https://greasyfork.org/en/scripts/40895-yemeksepeti-i-sim-ile-filtreleme/)
 
 Tarayıcınızda [Tampermonkey](https://tampermonkey.net/) ya da [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) eklentisi kurulu olmalıdır.
 
@@ -15,3 +21,7 @@ Tarayıcınızda [Tampermonkey](https://tampermonkey.net/) ya da [Greasemonkey](
 var MUST_CONTAIN= ["Hisarüstü", "Etiler", "Waffle"]; // Checks for at least one of them.
 var MUST_NOT_CONTAIN= ["Levent"]; // This is the black list. Both lists are case sensitive.
 ```
+
+## Not
+
+Yemeksepeti ile resmi bağlantısı bulunmamaktadır.
