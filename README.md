@@ -4,7 +4,7 @@ Sadece seçtiğiniz anahtar kelimelere sahip restoranların görüntülenmesi sa
 
 ## Yükleme adresi
 
-[https://greasyfork.org/](https://greasyfork.org/en/scripts/40895-yemeksepeti-i-sim-ile-filtreleme/)
+[https://greasyfork.org/en/scripts/40895-yemeksepeti-i-sim-ile-filtreleme/](https://greasyfork.org/en/scripts/40895-yemeksepeti-i-sim-ile-filtreleme/)
 
 Tarayıcınızda [Tampermonkey](https://tampermonkey.net/) ya da [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) eklentisi kurulu olmalıdır.
 
