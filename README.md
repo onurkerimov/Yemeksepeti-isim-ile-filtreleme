@@ -1,4 +1,4 @@
-# Yemekspeti İsim ile Filtreleme (Tampermonkey eklentisi)
+# Yemeksepeti İsim ile Filtreleme (Tampermonkey eklentisi)
 
 Sadece seçtiğiniz anahtar kelimelere sahip restoranların görüntülenmesi sağlar. Bazı kelimeleri ise kara listeye alabilirsiniz.
 
