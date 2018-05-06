@@ -4,9 +4,9 @@
 // @description    Sadece seçtiğiniz anahtar kelimelere sahip restoranların görüntülenmesini sağlar.
 // @include        http://www.yemeksepeti.com/istanbul/hisarustu
 // @include        https://www.yemeksepeti.com/istanbul/hisarustu
-// @copyright      OnurKerimov
+// @copyright      (c) 2018 Onur Kerimov
 // @version        1.0
-// @license        
+// @license        MIT
 // ==/UserScript==
 
 // ==== Settings ====
